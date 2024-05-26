@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">Cyber Security Enthusiast | 🌍Kansas</h3>
+<h3 align="center"> 🖥️ Cyber Security Enthusiast | 🌍Kansas</h3>
 
 
 <h3 align="left">Languages:</h3>
